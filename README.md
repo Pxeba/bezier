@@ -1,1 +1,1 @@
-Trabalho Final disciplina de Computação Grafica feito em C++. Desenho de curvas paramétricas Interpoladas e de Bezier recebendo input click do usuário. Para variar entre interpolada e bezier só é necessário clicar com o botão direito do mouse.
+Tecnologias: C++, Glut e OpenGL
